@@ -1,0 +1,4 @@
+/Users/sergeykuznetsov/Documents/GitHub/ImageToBase64/obj/Debug/netcoreapp3.1/ImageToBase64.csprojAssemblyReference.cache
+/Users/sergeykuznetsov/Documents/GitHub/ImageToBase64/obj/Debug/netcoreapp3.1/ImageToBase64.csproj.CoreCompileInputs.cache
+/Users/sergeykuznetsov/Documents/GitHub/ImageToBase64/obj/Debug/netcoreapp3.1/ImageToBase64.AssemblyInfoInputs.cache
+/Users/sergeykuznetsov/Documents/GitHub/ImageToBase64/obj/Debug/netcoreapp3.1/ImageToBase64.AssemblyInfo.cs

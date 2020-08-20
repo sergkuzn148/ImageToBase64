@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ImageToBase63
+namespace ImageToBase64
 {
     class Program
     {
